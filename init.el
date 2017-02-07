@@ -9,6 +9,7 @@
                       elpy ;; add the elpy package
                       flycheck ;; add the flycheck package
                       py-autopep8
+                      markdown-mode
                       paredit))
 
 (package-initialize)
